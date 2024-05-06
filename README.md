@@ -23,3 +23,7 @@ Each of these pages is designed to provide an engaging and interactive experienc
 
 
 ![Screenshot 2024-05-06 222316](https://github.com/Alfiya-Anjum/Harry_Potter_mobileapp/assets/125040235/8cfff061-1539-466a-adae-8809724cfd0a)
+
+![Screenshot 2024-05-06 222504](https://github.com/Alfiya-Anjum/Harry_Potter_mobileapp/assets/125040235/84a0b2c8-0f2c-4a39-a6fe-8df555487916)
+
+![Screenshot 2024-05-06 222525](https://github.com/Alfiya-Anjum/Harry_Potter_mobileapp/assets/125040235/be0dc5a6-86be-4f79-be43-1eb185833edc)
